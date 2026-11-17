@@ -4,7 +4,7 @@
 
 ![vitowahyu](https://komarev.com/ghpvc/?username=vitowahyu&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I'm currently studying at **Universitas Negeri Surabaya** ([jurusan])
+- 🌱 I'm currently studying at **Universitas Negeri Surabaya** (TEKNIK INFORMATIKA)
 - 💻 I build small web apps and Python programs
 - 🎨 I do graphic design on the side
 - 📈 I trade crypto and hunt airdrops
