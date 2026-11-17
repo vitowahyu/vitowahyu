@@ -8,7 +8,7 @@
 - 💻 I build small web apps and Python programs
 - 🎨 I do graphic design and video editing
 - 📈 I trade crypto and hunt airdrops
-- 📫 How to reach me: **[email kamu]**
+- 📫 How to reach me: **alvitowahyu8@gmail.com**
 
 ### Connect with me:
 
@@ -55,15 +55,6 @@
   <img src="assets/tradingview.svg" alt="TradingView" title="TradingView" width="40" height="40"/>
 </p>
 
-### 🪂 Airdrop Hunter
-
-Project yang sedang atau pernah saya ikuti:
-
-- [Nama project 1]: [jaringan], status: [farming / menunggu TGE / sudah claim]
-- [Nama project 2]: [jaringan], status: [farming / menunggu TGE / sudah claim]
-- [Nama project 3]: [jaringan], status: [farming / menunggu TGE / sudah claim]
-
----
 
 ### GitHub stats:
 
